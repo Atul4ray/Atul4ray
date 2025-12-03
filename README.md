@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Atul, a React.js Developer with 5+ years of experience in building high-performance, user-friendly, and scalable web applications. I specialize in crafting clean UI components, optimizing front-end performance, and delivering seamless user experiences across devices.<br><br>I have hands-on expertise in React.js, Redux, JavaScript, HTML, CSS, and modern UI tools. Over the years, I’ve worked across domains like automobile, banking, and e-commerce, collaborating with cross-functional teams to ship high-quality features and maintain robust codebases.<br><br>I follow best practices, write reusable components, ensure WCAG accessibility, and create efficient API integrations for smooth communication with backend services. I’m passionate about problem-solving, performance optimization, and staying updated with the latest React and front-end trends.
+Hi, I'm Atul Ray, a React.js Developer with 5+ years of experience in building high-performance, user-friendly, and scalable web applications. I specialize in crafting clean UI components, optimizing front-end performance, and delivering seamless user experiences across devices.<br><br>I have hands-on expertise in React.js, Redux, JavaScript, HTML, CSS, and modern UI tools. Over the years, I’ve worked across domains like automobile, banking, and e-commerce, collaborating with cross-functional teams to ship high-quality features and maintain robust codebases.<br><br>I follow best practices, write reusable components, ensure WCAG accessibility, and create efficient API integrations for smooth communication with backend services. I’m passionate about problem-solving, performance optimization, and staying updated with the latest React and front-end trends.
 
 
 ## 🌐 Socials:
@@ -11,6 +11,13 @@ Hi, I'm Atul, a React.js Developer with 5+ years of experience in building high-
 ![](https://github-readme-stats.vercel.app/api?username=Atul4ray&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Atul4ray&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul4ray&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Atul4ray&theme=radical&no-frame=false&no-bg=true&margin-w=4)
